@@ -9,6 +9,10 @@ public class PlayerController : MonoBehaviour
     public float speed;
     public GameObject winText;
 
+    private void Start()
+    {
+    }
+
     // Update is called once per frame
     void Update()
     {
